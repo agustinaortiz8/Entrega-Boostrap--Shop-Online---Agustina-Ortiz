@@ -215,11 +215,10 @@ section {
 }
 
 h2 {
-    text-align: center;
+    display: flex;
     position: relative;
-    right: 330px;
-    bottom: -150px;
-   
+    left: 130px;
+    top: 150px;
 }
 
 aside {
@@ -938,6 +937,8 @@ h1 {
     border-radius: 6px;
     width: 380px;
 }
+
+
 /*comienza el css Pregunatas frecuentes*/
 
 .tittle__frecuentes {
@@ -1329,6 +1330,7 @@ h6 {
     height: auto;
    
 }
+
 
 }
 
